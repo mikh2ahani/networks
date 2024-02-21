@@ -6,10 +6,10 @@
     "block": {
       "max_bytes": "4194304",
       "max_gas": "10000000",
-      "time_iota_ms": "1000"
+      "time_iota_ms": "2000"
     },
     "evidence": {
-      "max_age_num_blocks": "302400",
+      "max_age_num_blocks": "402400",
       "max_age_duration": "1814400000000000",
       "max_bytes": "1048576"
     },
